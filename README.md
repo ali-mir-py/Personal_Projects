@@ -1,4 +1,5 @@
 GDP and Economic Indicators Analysis (2000–2024)
+
 This project analyzes and visualizes GDP trends and key economic indicators of Iran and neighboring countries using data from the International Monetary Fund (IMF) up to April 2025. The analysis is presented in both an interactive Power BI dashboard and a PDF report.
 
 📌 Project Objectives
